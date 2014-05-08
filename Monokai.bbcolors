@@ -5,7 +5,7 @@
 	<key>BackgroundColor</key>
 	<string>rgba(0.152941,0.156863,0.133333,1.000000)</string>
 	<key>CommentsColor</key>
-	<string>rgba(0.333333333,0.333333333,0.333333333,1.0)</string>
+	<string>rgba(0.458824,0.443137,0.368627,1.000000)</string>
 	<key>CtagsIdentifierColor</key>
 	<string>rgba(0.650980,0.886275,0.180392,1.000000)</string>
 	<key>ForegroundColor</key>
